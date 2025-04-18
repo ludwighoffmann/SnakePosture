@@ -13,3 +13,8 @@ After installing auto-07p this can be run with the command "auto snakeNL.auto"
 
 - Plots:
 	- We create the plots used in the paper using the Jupyter notebook file plots.ipynb
+
+
+
+- Code and analysis by LAH and SGP
+- Fig. 2 in main text, and corresponding part of SI
