@@ -1,0 +1,14 @@
+#==========================
+# AUTO FigS6
+#==========================
+
+# Load the files snakeNL.f90 and c.snakeNL into the AUTO command interpreter.
+snakeNL = load('snakeNL')
+# Run and store the result in the Python variable mu
+mu = run(snakeNL)
+mu = relabel(mu)
+# Save to b.mu, s.mu, and d.mu
+save(mu,'mu')
+# Plot bifurcation diagram
+p = plot(mu)
+wait()
