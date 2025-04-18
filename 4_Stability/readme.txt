@@ -7,3 +7,7 @@ After starting Julia and including these modules, the four functions in Bifurcat
 stability_plots.py is used to create some of the figures of the paper.
 
 The two mathematica notebook files are used to create the plots of the example curves and the 3D stability diagram, respectively. 
+
+
+- Code and analysis by PB and LAH
+- Fig. 4 in main text, and corresponding part of SI
